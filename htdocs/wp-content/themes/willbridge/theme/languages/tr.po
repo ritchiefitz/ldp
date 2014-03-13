@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Willbridge 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-12 11:59+0200\n"
+"PO-Revision-Date: 2012-10-12 13:15+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: CMSMasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr "Hiç mesaj bulundu"
+
+#: blog.php:63
+#: page.php:58
+#: portfolio.php:80
+#: sitemap.php:64
+#: sitemap.php:76
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lütfen bu sayfayı doğrudan yük yok. Teşekkürler!"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazılan şifre korumalıdır. Yorum görmek için parolanızı girin."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Yorum Yok"
+
+#: comments.php:26
+msgid "Comment"
+msgstr "Yorum"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr "Eski Yorumlar"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Yeni Yorumlar"
+
+#: comments.php:46
+msgid "Cancel Reply"
+msgstr "Cevabı iptal etmek için"
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr "Bir Cevap Yazın"
+
+#: comments.php:47
+msgid "Leave your comment to"
+msgstr "Yorum bırak."
+
+#: comments.php:49
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "E-posta adresinizi yayınlanan olmayacaktır. Gerekli alanlar işaretlenmiştir."
+
+#: comments.php:52
+msgid "You must be"
+msgstr "Olmalıdır"
+
+#: comments.php:52
+msgid "logged in"
+msgstr "Bağlı"
+
+#: comments.php:52
+msgid "to post a comment"
+msgstr "Yorum yazmak için"
+
+#: comments.php:57
+msgid "Logged in as"
+msgstr "Olarak oturum"
+
+#: comments.php:57
+msgid "Log out of this account"
+msgstr "Bu hesabın oturum açın"
+
+#: comments.php:57
+msgid "Log out"
+msgstr "Çıkış yap"
+
+#: header.php:478
+msgid "Search Results for"
+msgstr "Için Arama Sonuçları"
+
+#: header.php:481
+msgid "Daily Archives"
+msgstr "Günlük Arşiv"
+
+#: header.php:483
+msgid "Monthly Archives"
+msgstr "Aylık Arşiv"
+
+#: header.php:485
+msgid "Yearly Archives"
+msgstr "Yıllık Arşivler"
+
+#: header.php:487
+msgid "Category Archives"
+msgstr "Kategori Arşivi"
+
+#: header.php:489
+msgid "Tag Archives"
+msgstr "Tag Arşivi"
+
+#: header.php:493
+msgid "Author Archives"
+msgstr "Yazar Arşivi"
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr "Bu yazı yayınlanmıştır."
+
+#: image.php:41
+msgid "at"
+msgstr "az"
+
+#: image.php:41
+msgid "and is filed under"
+msgstr "and is filed under"
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr "Ile bu giriş için herhangi bir yanıt takip edebilirsiniz"
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr "RSS 2. 0"
+
+#: image.php:53
+msgid "feed"
+msgstr "beslemek"
+
+#: image.php:56
+msgid "You can"
+msgstr "Şunları yapabilirsiniz"
+
+#: image.php:56
+msgid "leave a response"
+msgstr "Bir yanıt bırakın"
+
+#: image.php:56
+msgid "or"
+msgstr "veya"
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr "trackback"
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr "kendi sitesinden"
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr "Şu anda kapalı, ancak"
+
+#: image.php:72
+msgid "Edit this media"
+msgstr "Bu ortam Düzenle"
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr "Hiç bir şey bulunamadı. Başka bir arama denemek ister misiniz?"
+
+#: single.php:75
+msgid "Like this post?"
+msgstr "Bunun gibi?"
+
+#: single.php:171
+msgid "About the author"
+msgstr "Yazar hakkında"
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr "Ev"
+
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr "Yazar"
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr "Etiket"
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr "Ara"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr "Sayfa"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr "arasında"
+
+#: theme/functions/comments.php:20
+msgid "Edit"
+msgstr "Düzenle"
+
+#: theme/functions/comments.php:28
+msgid "Reply"
+msgstr "Cevap"
+
+#: theme/functions/comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz moderasyon bekliyor."
+
+#: theme/functions/shortcodes.php:352
+msgid "Top"
+msgstr "Üst"
+
+#: theme/functions/shortcodes.php:521
+#: theme/functions/shortcodes.php:534
+#: theme/functions/shortcodes.php:593
+#: theme/functions/shortcodes.php:606
+#: theme/functions/shortcodes.php:863
+#: theme/functions/shortcodes.php:923
+msgid "Play"
+msgstr "Oyun"
+
+#: theme/functions/shortcodes.php:535
+#: theme/functions/shortcodes.php:607
+#: theme/functions/shortcodes.php:864
+#: theme/functions/shortcodes.php:924
+msgid "Pause"
+msgstr "Duraklat"
+
+#: theme/functions/shortcodes.php:536
+#: theme/functions/shortcodes.php:608
+#: theme/functions/shortcodes.php:865
+#: theme/functions/shortcodes.php:925
+msgid "Stop"
+msgstr "Dur"
+
+#: theme/functions/shortcodes.php:542
+#: theme/functions/shortcodes.php:616
+#: theme/functions/shortcodes.php:871
+#: theme/functions/shortcodes.php:933
+msgid "Mute"
+msgstr "Sessiz"
+
+#: theme/functions/shortcodes.php:543
+#: theme/functions/shortcodes.php:617
+#: theme/functions/shortcodes.php:872
+#: theme/functions/shortcodes.php:934
+msgid "Unmute"
+msgstr "Sesi aç"
+
+#: theme/functions/shortcodes.php:544
+#: theme/functions/shortcodes.php:618
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+#: theme/functions/shortcodes.php:545
+#: theme/functions/shortcodes.php:619
+msgid "Restore Screen"
+msgstr "Ekran Geri Yükleme"
+
+#: theme/functions/shortcodes.php:555
+#: theme/functions/shortcodes.php:629
+#: theme/functions/shortcodes.php:882
+#: theme/functions/shortcodes.php:944
+msgid "Update Required"
+msgstr "Gerekli Güncelleme"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Medya oynatmak için son sürümü tarayıcınızı güncelleyin ya da güncellemek ya gerekecektir"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "Flash plugin"
+msgstr "Flash eklentisi"
+
+#: theme/functions/shortcodes.php:609
+#: theme/functions/shortcodes.php:926
+msgid "Previous"
+msgstr "Önceki"
+
+#: theme/functions/shortcodes.php:610
+#: theme/functions/shortcodes.php:927
+msgid "Next"
+msgstr "Sonraki"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "0"
+msgstr "0"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "Off"
+msgstr "kapalı"
+
+#: theme/functions/template-functions.php:332
+#: theme/functions/template-functions.php:374
+msgid "Posted by"
+msgstr "Tarafından gönderildi"
+
+#: theme/functions/template-functions.php:341
+#: theme/functions/template-functions.php:383
+msgid "in"
+msgstr "içinde"
+
+#: theme/functions/template-functions.php:402
+msgid "Date"
+msgstr "Tarih"
+
+#: theme/functions/template-functions.php:413
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: theme/functions/template-functions.php:475
+#: theme/functions/template-functions.php:484
+msgid "Taged with"
+msgstr "ile Taged"
+
+#: theme/functions/template-functions.php:496
+msgid "Tags"
+msgstr "Etiketler"
+
+#: theme/functions/template-functions.php:526
+msgid "Read More &rarr;"
+msgstr "Devamı &rarr;"
+
+#: theme/functions/template-functions.php:598
+msgid "More posts"
+msgstr "Daha fazla mesaj"
+
+#: theme/functions/template-functions.php:598
+msgid "More projects"
+msgstr "Diğer projeler"
+
+#: theme/functions/template-functions.php:602
+msgid "Related"
+msgstr "Ilgili"
+
+#: theme/functions/template-functions.php:612
+msgid "Popular"
+msgstr "Popüler"
+
+#: theme/functions/template-functions.php:622
+msgid "Latest"
+msgstr "Son"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Posts Found"
+msgstr "İlgili İleti Bulundu"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Projects Found"
+msgstr "Hayır İlgili Projeler Bulundu"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Posts Found"
+msgstr "Popüler Yayınlar Bulundu"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Projects Found"
+msgstr "Hayır Popüler Projeler Bulundu"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Posts Found"
+msgstr "Yok Son Mesaj Bulundu"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Projects Found"
+msgstr "Hayır Son Projelerimiz Bulundu"
+
+#: theme/functions/template-functions.php:831
+msgid "Unknown type of the video. Check your video link."
+msgstr "Video Bilinmeyen yazın. Video bağlantısını kontrol edin."
+
+#: theme/functions/template-functions.php:1111
+msgid "Send Message"
+msgstr "Mesaj Gönder"
+
+#: theme/functions/template-functions.php:1114
+msgid "Do you really want to reset the form?"
+msgstr "Eğer gerçekten formu sıfırlamak istiyor musunuz?"
+
+#: theme/functions/template-functions.php:1114
+msgid "Reset Form"
+msgstr "Açık formu"
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+#: theme/postTypes/blog/post/fullwidth/link.php:19
+#: theme/postTypes/blog/post/sidebar/link.php:19
+msgid "Enter link text"
+msgstr "Bağlantı metni girin"
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:31
+#: theme/postTypes/blog/page/sidebar/quote.php:31
+#: theme/postTypes/blog/post/fullwidth/quote.php:22
+#: theme/postTypes/blog/post/sidebar/quote.php:22
+msgid "Enter post excerpt"
+msgstr "Mesaj alıntı girin"
+
+#~ msgid "We're sorry, but the page you were looking for doesn't exist."
+#~ msgstr "Üzgünüz, ama aradığınız sayfa mevcut değil."
+
+#~ msgid "Sitemap"
+#~ msgstr "Site Haritası"
+
+#~ msgid "Name"
+#~ msgstr "Isim"
+
+#~ msgid "Email"
+#~ msgstr "E-posta"
+
+#~ msgid "Website"
+#~ msgstr "Web sitesi"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Yorum Gönder"
+
+#~ msgid "Connect with us"
+#~ msgstr "Bizimle bağlayın"
+
+#~ msgid "Portfolio Archives"
+#~ msgstr "Portföy Arşivler"
+
+#~ msgid "Website Archives"
+#~ msgstr "Web sitesi Arşivler"
+
+#~ msgid "All Categories"
+#~ msgstr "Tüm Kategoriler"
+
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "Sonuna kadar atlayabilir ve bir yanıt bırakabilirsiniz. Ping şu an izin "
+#~ "verilmiyor."
+
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "Her iki yorum ve ping şu anda kapalı."
+
+#~ msgid "This page contains your query"
+#~ msgstr "Bu sayfa Sorgunuzla"
+
+#~ msgid "enter keywords"
+#~ msgstr "anahtar kelime girin"
+
+#~ msgid "More sharing options"
+#~ msgstr "Daha fazla paylaşım seçenekleri"
+
+#~ msgid "Archives"
+#~ msgstr "Arşiv"
+
+#~ msgid "Jan"
+#~ msgstr "Oca"
+
+#~ msgid "Feb"
+#~ msgstr "Şub"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Nis"
+
+#~ msgid "May"
+#~ msgstr "May"
+
+#~ msgid "Jun"
+#~ msgstr "Haz"
+
+#~ msgid "Jul"
+#~ msgstr "Tem"
+
+#~ msgid "Aug"
+#~ msgstr "Ağu"
+
+#~ msgid "Sep"
+#~ msgstr "Eyl"
+
+#~ msgid "Oct"
+#~ msgstr "Eki"
+
+#~ msgid "Nov"
+#~ msgstr "Kas"
+
+#~ msgid "Dec"
+#~ msgstr "Ara"
+
+#~ msgid "More"
+#~ msgstr "Daha fazla"
+
+#~ msgid "Prev"
+#~ msgstr "Önceki"
+
+#~ msgid "new tweet"
+#~ msgstr "yeni bir tweet"
+
+#~ msgid "new tweets"
+#~ msgstr "yeni tweetler"
+
+#~ msgid "on Twitter"
+#~ msgstr "Twitter'da"
+
+#~ msgid "second ago"
+#~ msgstr "saniye önce"
+
+#~ msgid "seconds ago"
+#~ msgstr "saniye önce"
+
+#~ msgid "minute ago"
+#~ msgstr "dakika önce"
+
+#~ msgid "minutes ago"
+#~ msgstr "dakika önce"
+
+#~ msgid "hour ago"
+#~ msgstr "saat önce"
+
+#~ msgid "hours ago"
+#~ msgstr "saat önce"
+
+#~ msgid "day ago"
+#~ msgstr "gün önce"
+
+#~ msgid "days ago"
+#~ msgstr "gün önce"
+
+#~ msgid "via"
+#~ msgstr "üzerinden"
+
+#~ msgid "here"
+#~ msgstr "burada"
+
+#~ msgid "from"
+#~ msgstr "itibaren"
+
+#~ msgid "in reply to"
+#~ msgstr "cevap olarak"
+
+#~ msgid "and"
+#~ msgstr "ve"
+
+#~ msgid "other"
+#~ msgstr "diğer"
+
+#~ msgid "others"
+#~ msgstr "diğerleri"
+
+#~ msgid "Retweeted by"
+#~ msgstr "Tarafından retweeted"
+
+#~ msgid "Retweet"
+#~ msgstr "Retweet"
+
+#~ msgid "Favorite"
+#~ msgstr "Favori"
+
+#~ msgid "Sign out"
+#~ msgstr "Oturumu"
+
+#~ msgid "Loading"
+#~ msgstr "Yükleme"
+
+#~ msgid "ERROR"
+#~ msgstr "HATA"
+
+#~ msgid "No more data"
+#~ msgstr "Hayır daha fazla veri"
+
+#~ msgid "What's happening?"
+#~ msgstr "Neler oluyor?"
+
+#~ msgid "* This field is required"
+#~ msgstr "* Bu alan gerekli"
+
+#~ msgid "* Please select an option"
+#~ msgstr "* Lütfen bir seçeneği seçin"
+
+#~ msgid "* This checkbox is required"
+#~ msgstr "* Bu onay kutusunu gerekli"
+
+#~ msgid "* Minimum"
+#~ msgstr "* Minimum"
+
+#~ msgid "characters allowed"
+#~ msgstr "karakterlere izin"
+
+#~ msgid "* Maximum"
+#~ msgstr "* Maksimum"
+
+#~ msgid "* Invalid email address"
+#~ msgstr "* Geçersiz e-posta adresi"
+
+#~ msgid "* Invalid number"
+#~ msgstr "* Geçersiz numara"
+
+#~ msgid "* Invalid URL"
+#~ msgstr "* Geçersiz URL"
+
+#~ msgid "* Numbers and spaces only"
+#~ msgstr "* Numaraları ve boşluk"
+
+#~ msgid "* Letters and spaces only"
+#~ msgstr "* Mektuplar ve boşluk"
+
+#~ msgid "All Rights Reserved"
+#~ msgstr "Tüm Hakları Saklıdır"
+
+#~ msgid "All Flickr Images"
+#~ msgstr "Flickr Resimleri"
+
+#~ msgid "on"
+#~ msgstr "üzerinde"
+
+#~ msgid "ago"
+#~ msgstr "önce"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Submit"
+#~ msgstr "Sunmak"
+
+#~ msgid "View all posts in"
+#~ msgstr "Bütün mesajlar"
+
+#~ msgid "Comments Off"
+#~ msgstr "Yorum Devre Dışı"
+
+#~ msgid "View Project"
+#~ msgstr "Proje bilgileri"

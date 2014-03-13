@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Willbridge 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-12 11:59+0200\n"
+"PO-Revision-Date: 2012-10-12 13:13+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: cmsmasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr "Посты не найдены"
+
+#: blog.php:63
+#: page.php:58
+#: portfolio.php:80
+#: sitemap.php:64
+#: sitemap.php:76
+msgid "Pages"
+msgstr "Страницы"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Этот пост защищен паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Комментариев нет"
+
+#: comments.php:26
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Комментариев"
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:46
+msgid "Cancel Reply"
+msgstr "Отменить ответ"
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: comments.php:47
+msgid "Leave your comment to"
+msgstr "Оставьте ваш комментарий к"
+
+#: comments.php:49
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "Ваш электронный адрес не будет опубликован. Обязательные для заполнения поля выделены"
+
+#: comments.php:52
+msgid "You must be"
+msgstr "Вы должны"
+
+#: comments.php:52
+msgid "logged in"
+msgstr "войти в систему"
+
+#: comments.php:52
+msgid "to post a comment"
+msgstr "чтобы оставить комментарий"
+
+#: comments.php:57
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: comments.php:57
+msgid "Log out of this account"
+msgstr "Выйти из этого аккаунт"
+
+#: comments.php:57
+msgid "Log out"
+msgstr "Выйти из системы"
+
+#: header.php:478
+msgid "Search Results for"
+msgstr "Результаты поиска по запросу"
+
+#: header.php:481
+msgid "Daily Archives"
+msgstr "Архивы по дню"
+
+#: header.php:483
+msgid "Monthly Archives"
+msgstr "Архивы по месяцу"
+
+#: header.php:485
+msgid "Yearly Archives"
+msgstr "Архивы по году"
+
+#: header.php:487
+msgid "Category Archives"
+msgstr "Архив по категории"
+
+#: header.php:489
+msgid "Tag Archives"
+msgstr "Архив по тэгу"
+
+#: header.php:493
+msgid "Author Archives"
+msgstr "Архив по автору"
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr "Эта запись была размещена на"
+
+#: image.php:41
+msgid "at"
+msgstr "в"
+
+#: image.php:41
+msgid "and is filed under"
+msgstr "и находится в"
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr "Вы можете следить за обсуждением этой записи с помощью"
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: image.php:53
+msgid "feed"
+msgstr "ленты"
+
+#: image.php:56
+msgid "You can"
+msgstr "Вы можете"
+
+#: image.php:56
+msgid "leave a response"
+msgstr "оставить отзыв"
+
+#: image.php:56
+msgid "or"
+msgstr "или"
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr "обратную ссылку"
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr "с вашего сайта"
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr "Комментарии закрыты, но вы можете"
+
+#: image.php:72
+msgid "Edit this media"
+msgstr "Изменить"
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr "Ничего не найдено. Повторить поиск?"
+
+#: single.php:75
+msgid "Like this post?"
+msgstr "Нравится этот пост?"
+
+#: single.php:171
+msgid "About the author"
+msgstr "О авторе"
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr "Главная"
+
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr "Автор"
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr "Тэг"
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr "Поиск"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr "Страница"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr "из"
+
+#: theme/functions/comments.php:20
+msgid "Edit"
+msgstr "Редактировать"
+
+#: theme/functions/comments.php:28
+msgid "Reply"
+msgstr "Ответить"
+
+#: theme/functions/comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: theme/functions/shortcodes.php:352
+msgid "Top"
+msgstr "Вверх"
+
+#: theme/functions/shortcodes.php:521
+#: theme/functions/shortcodes.php:534
+#: theme/functions/shortcodes.php:593
+#: theme/functions/shortcodes.php:606
+#: theme/functions/shortcodes.php:863
+#: theme/functions/shortcodes.php:923
+msgid "Play"
+msgstr "Воспроизвести"
+
+#: theme/functions/shortcodes.php:535
+#: theme/functions/shortcodes.php:607
+#: theme/functions/shortcodes.php:864
+#: theme/functions/shortcodes.php:924
+msgid "Pause"
+msgstr "Пауза"
+
+#: theme/functions/shortcodes.php:536
+#: theme/functions/shortcodes.php:608
+#: theme/functions/shortcodes.php:865
+#: theme/functions/shortcodes.php:925
+msgid "Stop"
+msgstr "Остановить"
+
+#: theme/functions/shortcodes.php:542
+#: theme/functions/shortcodes.php:616
+#: theme/functions/shortcodes.php:871
+#: theme/functions/shortcodes.php:933
+msgid "Mute"
+msgstr "Выключить звук"
+
+#: theme/functions/shortcodes.php:543
+#: theme/functions/shortcodes.php:617
+#: theme/functions/shortcodes.php:872
+#: theme/functions/shortcodes.php:934
+msgid "Unmute"
+msgstr "Включить звук"
+
+#: theme/functions/shortcodes.php:544
+#: theme/functions/shortcodes.php:618
+msgid "Full Screen"
+msgstr "Во весь экран"
+
+#: theme/functions/shortcodes.php:545
+#: theme/functions/shortcodes.php:619
+msgid "Restore Screen"
+msgstr "Восстановить экран"
+
+#: theme/functions/shortcodes.php:555
+#: theme/functions/shortcodes.php:629
+#: theme/functions/shortcodes.php:882
+#: theme/functions/shortcodes.php:944
+msgid "Update Required"
+msgstr "Требуется Обновление"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Чтобы воспроизводить слайдер Вам необходимо либо обновить ваш браузер до последней версии или обновить"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "Flash plugin"
+msgstr "Флеш плагин"
+
+#: theme/functions/shortcodes.php:609
+#: theme/functions/shortcodes.php:926
+msgid "Previous"
+msgstr "Предидущий"
+
+#: theme/functions/shortcodes.php:610
+#: theme/functions/shortcodes.php:927
+msgid "Next"
+msgstr "Следующий"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "0"
+msgstr "0"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "Off"
+msgstr "0"
+
+#: theme/functions/template-functions.php:332
+#: theme/functions/template-functions.php:374
+msgid "Posted by"
+msgstr "Написал"
+
+#: theme/functions/template-functions.php:341
+#: theme/functions/template-functions.php:383
+msgid "in"
+msgstr "в"
+
+#: theme/functions/template-functions.php:402
+msgid "Date"
+msgstr "Дата"
+
+#: theme/functions/template-functions.php:413
+msgid "Categories"
+msgstr "Категории"
+
+#: theme/functions/template-functions.php:475
+#: theme/functions/template-functions.php:484
+msgid "Taged with"
+msgstr "Тэги"
+
+#: theme/functions/template-functions.php:496
+msgid "Tags"
+msgstr "Тэги"
+
+#: theme/functions/template-functions.php:526
+msgid "Read More &rarr;"
+msgstr "Далее &rarr;"
+
+#: theme/functions/template-functions.php:598
+msgid "More posts"
+msgstr "Больше постов"
+
+#: theme/functions/template-functions.php:598
+msgid "More projects"
+msgstr "Больше проектов"
+
+#: theme/functions/template-functions.php:602
+msgid "Related"
+msgstr "Похожие"
+
+#: theme/functions/template-functions.php:612
+msgid "Popular"
+msgstr "Популярные"
+
+#: theme/functions/template-functions.php:622
+msgid "Latest"
+msgstr "Последние"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Posts Found"
+msgstr "Похожих постов не найдено"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Projects Found"
+msgstr "Похожих проектов не найдено"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Posts Found"
+msgstr "Популярных постов не найдено"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Projects Found"
+msgstr "Популярных проектов не найдено"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Posts Found"
+msgstr "Последних постов не найдено"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Projects Found"
+msgstr "Последних проектов не найдено"
+
+#: theme/functions/template-functions.php:831
+msgid "Unknown type of the video. Check your video link."
+msgstr "Неизвестный тип видео. Проверьте вашу ссылку на видео."
+
+#: theme/functions/template-functions.php:1111
+msgid "Send Message"
+msgstr "Отправить Сообщение"
+
+#: theme/functions/template-functions.php:1114
+msgid "Do you really want to reset the form?"
+msgstr "Вы действительно хотите сбросить форму?"
+
+#: theme/functions/template-functions.php:1114
+msgid "Reset Form"
+msgstr "Очистить Форму"
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+#: theme/postTypes/blog/post/fullwidth/link.php:19
+#: theme/postTypes/blog/post/sidebar/link.php:19
+msgid "Enter link text"
+msgstr "Введите текст ссылки"
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:31
+#: theme/postTypes/blog/page/sidebar/quote.php:31
+#: theme/postTypes/blog/post/fullwidth/quote.php:22
+#: theme/postTypes/blog/post/sidebar/quote.php:22
+msgid "Enter post excerpt"
+msgstr "Введите краткое содержание"
+
+#~ msgid "We're sorry, but the page you were looking for doesn't exist."
+#~ msgstr ""
+#~ "Приносим свои извинения, но страница, которую вы ищете, не существует."
+
+#~ msgid "Sitemap"
+#~ msgstr "Карта сайта"
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Email"
+#~ msgstr "Электронная почта"
+
+#~ msgid "Website"
+#~ msgstr "Веб-сайт"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Оставить Комментарий"
+
+#~ msgid "Connect with us"
+#~ msgstr "Связаться с нами"
+
+#~ msgid "Portfolio Archives"
+#~ msgstr "Архивы по портфолио"
+
+#~ msgid "Website Archives"
+#~ msgstr "Архив Веб-сайта"
+
+#~ msgid "All Categories"
+#~ msgstr "Все категории"
+
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "Вы можете пропустить и оставить комментарий. Пингование в настоящее время "
+#~ "не допускается."
+
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "Комментарии и пинги в данный момент закрыты."
+
+#~ msgid "This page contains your query"
+#~ msgstr "Эта страница содержит Ваш запрос"
+
+#~ msgid "enter keywords"
+#~ msgstr "введите ключевые слова"
+
+#~ msgid "More sharing options"
+#~ msgstr "Поделиться"
+
+#~ msgid "Archives"
+#~ msgstr "Архивы"
+
+#~ msgid "Jan"
+#~ msgstr "Янв"
+
+#~ msgid "Feb"
+#~ msgstr "Фев"
+
+#~ msgid "Mar"
+#~ msgstr "Мар"
+
+#~ msgid "Apr"
+#~ msgstr "Апр"
+
+#~ msgid "May"
+#~ msgstr "Май"
+
+#~ msgid "Jun"
+#~ msgstr "Июн"
+
+#~ msgid "Jul"
+#~ msgstr "Июл"
+
+#~ msgid "Aug"
+#~ msgstr "Авг"
+
+#~ msgid "Sep"
+#~ msgstr "Сен"
+
+#~ msgid "Oct"
+#~ msgstr "Окт"
+
+#~ msgid "Nov"
+#~ msgstr "Ноя"
+
+#~ msgid "Dec"
+#~ msgstr "Дек"
+
+#~ msgid "More"
+#~ msgstr "Больше"
+
+#~ msgid "Prev"
+#~ msgstr "Предыдущий"
+
+#~ msgid "new tweet"
+#~ msgstr "новый твит"
+
+#~ msgid "new tweets"
+#~ msgstr "новые твиты"
+
+#~ msgid "on Twitter"
+#~ msgstr "в Твиттере"
+
+#~ msgid "second ago"
+#~ msgstr "секунду назад"
+
+#~ msgid "seconds ago"
+#~ msgstr "секунд назад"
+
+#~ msgid "minute ago"
+#~ msgstr "минуту назад"
+
+#~ msgid "minutes ago"
+#~ msgstr "минут назад"
+
+#~ msgid "hour ago"
+#~ msgstr "час назад"
+
+#~ msgid "hours ago"
+#~ msgstr "часов назад"
+
+#~ msgid "day ago"
+#~ msgstr "день назад"
+
+#~ msgid "days ago"
+#~ msgstr "дней назад"
+
+#~ msgid "via"
+#~ msgstr "через"
+
+#~ msgid "here"
+#~ msgstr "здесь"
+
+#~ msgid "from"
+#~ msgstr "от"
+
+#~ msgid "in reply to"
+#~ msgstr "в ответ на"
+
+#~ msgid "and"
+#~ msgstr "и"
+
+#~ msgid "other"
+#~ msgstr "другой"
+
+#~ msgid "others"
+#~ msgstr "другие"
+
+#~ msgid "Retweeted by"
+#~ msgstr "Ретвит от"
+
+#~ msgid "Retweet"
+#~ msgstr "Ретвит"
+
+#~ msgid "Favorite"
+#~ msgstr "Любимый"
+
+#~ msgid "Sign out"
+#~ msgstr "Выйти из системы"
+
+#~ msgid "Loading"
+#~ msgstr "Загрузка"
+
+#~ msgid "ERROR"
+#~ msgstr "ОШИБКА"
+
+#~ msgid "No more data"
+#~ msgstr "Больше нет данных"
+
+#~ msgid "What's happening?"
+#~ msgstr "Что случилось?"
+
+#~ msgid "* This field is required"
+#~ msgstr "* Это поле обязательно для заполнения"
+
+#~ msgid "* Please select an option"
+#~ msgstr "* Пожалуйста, выберите опцию"
+
+#~ msgid "* This checkbox is required"
+#~ msgstr "* Этот флажок обязателен"
+
+#~ msgid "* Minimum"
+#~ msgstr "* Минимум"
+
+#~ msgid "characters allowed"
+#~ msgstr "символов"
+
+#~ msgid "* Maximum"
+#~ msgstr "* Максимум"
+
+#~ msgid "* Invalid email address"
+#~ msgstr "* Неправильный адрес электронной почты"
+
+#~ msgid "* Invalid number"
+#~ msgstr "* Неверное число"
+
+#~ msgid "* Invalid URL"
+#~ msgstr "* Неправильный URL"
+
+#~ msgid "* Numbers and spaces only"
+#~ msgstr "* Только цифры и пробелы"
+
+#~ msgid "* Letters and spaces only"
+#~ msgstr "* Только буквы и пробелы"
+
+#~ msgid "All Rights Reserved"
+#~ msgstr "Все Права Защищены"
+
+#~ msgid "All Flickr Images"
+#~ msgstr "Все изображения Flickr"
+
+#~ msgid "on"
+#~ msgstr "в"
+
+#~ msgid "ago"
+#~ msgstr "назад"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Submit"
+#~ msgstr "Отправить"
+
+#~ msgid "View all posts in"
+#~ msgstr "Показать все сообщения в"
+
+#~ msgid "Comments Off"
+#~ msgstr "Комментарии отключены"
+
+#~ msgid "View Project"
+#~ msgstr "Посмортеть проект"

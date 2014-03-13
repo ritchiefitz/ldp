@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<icons>
+  <icon name="aim">
+    <icon_file>aim.png</icon_file>
+    <icon_tooltip>Aim</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="amazon">
+    <icon_file>amazon.png</icon_file>
+    <icon_tooltip>Amazon</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="appstore">
+    <icon_file>appstore.png</icon_file>
+    <icon_tooltip>Appstore</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="bebo">
+    <icon_file>bebo.png</icon_file>
+    <icon_tooltip>Bebo</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="behance">
+    <icon_file>behance.png</icon_file>
+    <icon_tooltip>Behance</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="blogger">
+    <icon_file>blogger.png</icon_file>
+    <icon_tooltip>Blogger</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="delicious">
+    <icon_file>delicious.png</icon_file>
+    <icon_tooltip>Delicious</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="deviantart">
+    <icon_file>deviantart.png</icon_file>
+    <icon_tooltip>Deviantart</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="digg">
+    <icon_file>digg.png</icon_file>
+    <icon_tooltip>Digg</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="dribbble">
+    <icon_file>dribbble.png</icon_file>
+    <icon_tooltip>Dribbble</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="email">
+    <icon_file>email.png</icon_file>
+    <icon_tooltip>Email</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="facebook">
+    <icon_file>facebook.png</icon_file>
+    <icon_tooltip>Facebook</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="flickr">
+    <icon_file>flickr.png</icon_file>
+    <icon_tooltip>Flickr</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="google">
+    <icon_file>google.png</icon_file>
+    <icon_tooltip>Google</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="google-plus">
+    <icon_file>google-plus.png</icon_file>
+    <icon_tooltip>Google-plus</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="last-fm">
+    <icon_file>last-fm.png</icon_file>
+    <icon_tooltip>Last-fm</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="linkedin">
+    <icon_file>linkedin.png</icon_file>
+    <icon_tooltip>Linkedin</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="myspace">
+    <icon_file>myspace.png</icon_file>
+    <icon_tooltip>Myspace</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="paypal">
+    <icon_file>paypal.png</icon_file>
+    <icon_tooltip>Paypal</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="picasa">
+    <icon_file>picasa.png</icon_file>
+    <icon_tooltip>Picasa</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="pinterest">
+    <icon_file>pinterest.png</icon_file>
+    <icon_tooltip>Pinterest</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="rss">
+    <icon_file>rss.png</icon_file>
+    <icon_tooltip>Rss</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="skype">
+    <icon_file>skype.png</icon_file>
+    <icon_tooltip>Skype</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="stumbleupon">
+    <icon_file>stumbleupon.png</icon_file>
+    <icon_tooltip>Stumbleupon</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="tumblr">
+    <icon_file>tumblr.png</icon_file>
+    <icon_tooltip>Tumblr</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="twitter">
+    <icon_file>twitter.png</icon_file>
+    <icon_tooltip>Twitter</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="twitter2">
+    <icon_file>twitter2.png</icon_file>
+    <icon_tooltip>Twitter2</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="vimeo">
+    <icon_file>vimeo.png</icon_file>
+    <icon_tooltip>Vimeo</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="website">
+    <icon_file>website.png</icon_file>
+    <icon_tooltip>Website</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="wordpress">
+    <icon_file>wordpress.png</icon_file>
+    <icon_tooltip>Wordpress</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="yahoo">
+    <icon_file>yahoo.png</icon_file>
+    <icon_tooltip>Yahoo</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+  <icon name="youtube">
+    <icon_file>youtube.png</icon_file>
+    <icon_tooltip>Youtube</icon_tooltip>
+    <icon_link>#</icon_link>
+  </icon>
+</icons>

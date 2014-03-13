@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Willbridge 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-12 11:59+0200\n"
+"PO-Revision-Date: 2012-10-12 13:06+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: CMSMasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr "Nie znaleziono żadnych postów"
+
+#: blog.php:63
+#: page.php:58
+#: portfolio.php:80
+#: sitemap.php:64
+#: sitemap.php:76
+msgid "Pages"
+msgstr "Strony"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Prosimy nie otworzyć tej strony bezpośrednio. Dzięki!"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ten post jest chroniony hasłem. Podaj hasło, aby zobaczyć komentarze."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Brak komentarzy"
+
+#: comments.php:26
+msgid "Comment"
+msgstr "Komentarz"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Komentarze"
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr "Starsze Komentarze"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Nowsze Komentarze"
+
+#: comments.php:46
+msgid "Cancel Reply"
+msgstr "Anuluj Odpowiedz"
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr "Dodaj komentarz"
+
+#: comments.php:47
+msgid "Leave your comment to"
+msgstr "Zostaw swój komentarz"
+
+#: comments.php:49
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "Twój adres e-mail nie zostanie opublikowany. Wymagane pola są oznaczone"
+
+#: comments.php:52
+msgid "You must be"
+msgstr "Musisz być"
+
+#: comments.php:52
+msgid "logged in"
+msgstr "zalogowany"
+
+#: comments.php:52
+msgid "to post a comment"
+msgstr "aby dodać komentarz"
+
+#: comments.php:57
+msgid "Logged in as"
+msgstr "Zalogowany jako"
+
+#: comments.php:57
+msgid "Log out of this account"
+msgstr "Wyloguj się z tego konta"
+
+#: comments.php:57
+msgid "Log out"
+msgstr "Wyloguj się"
+
+#: header.php:478
+msgid "Search Results for"
+msgstr "Wyniki wyszukiwania dla"
+
+#: header.php:481
+msgid "Daily Archives"
+msgstr "Dzienny Archiwum"
+
+#: header.php:483
+msgid "Monthly Archives"
+msgstr "Miesięczne Archiwum"
+
+#: header.php:485
+msgid "Yearly Archives"
+msgstr "Roczny Archiwum"
+
+#: header.php:487
+msgid "Category Archives"
+msgstr "Archiwum kategorii"
+
+#: header.php:489
+msgid "Tag Archives"
+msgstr "Tag Archives"
+
+#: header.php:493
+msgid "Author Archives"
+msgstr "Archiwum autora"
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr "Ten wpis został opublikowany na"
+
+#: image.php:41
+msgid "at"
+msgstr "w"
+
+#: image.php:41
+msgid "and is filed under"
+msgstr "i jest zaszufladkowany"
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr "Możesz śledzić odpowiedzi do tego wpisu poprzez"
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: image.php:53
+msgid "feed"
+msgstr "RSS"
+
+#: image.php:56
+msgid "You can"
+msgstr "Można"
+
+#: image.php:56
+msgid "leave a response"
+msgstr "zostawić odpowiedź"
+
+#: image.php:56
+msgid "or"
+msgstr "lub"
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr "trackback"
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr "ze swojej strony"
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr "Odpowiedzi są obecnie zamknięty, ale można"
+
+#: image.php:72
+msgid "Edit this media"
+msgstr "Edytuj mediów"
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr "Nic nie znaleziono. Spróbuj wyszukać jeszcze raz?"
+
+#: single.php:75
+msgid "Like this post?"
+msgstr "Jak tego postu?"
+
+#: single.php:171
+msgid "About the author"
+msgstr "O autorze"
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr "Do domu"
+
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr "Autor"
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr "Tag"
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr "Szukaj"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr "Strona"
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr "z"
+
+#: theme/functions/comments.php:20
+msgid "Edit"
+msgstr "Edytuj"
+
+#: theme/functions/comments.php:28
+msgid "Reply"
+msgstr "Odpowiedź"
+
+#: theme/functions/comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka umiarem."
+
+#: theme/functions/shortcodes.php:352
+msgid "Top"
+msgstr "Top"
+
+#: theme/functions/shortcodes.php:521
+#: theme/functions/shortcodes.php:534
+#: theme/functions/shortcodes.php:593
+#: theme/functions/shortcodes.php:606
+#: theme/functions/shortcodes.php:863
+#: theme/functions/shortcodes.php:923
+msgid "Play"
+msgstr "Grać"
+
+#: theme/functions/shortcodes.php:535
+#: theme/functions/shortcodes.php:607
+#: theme/functions/shortcodes.php:864
+#: theme/functions/shortcodes.php:924
+msgid "Pause"
+msgstr "Pauza"
+
+#: theme/functions/shortcodes.php:536
+#: theme/functions/shortcodes.php:608
+#: theme/functions/shortcodes.php:865
+#: theme/functions/shortcodes.php:925
+msgid "Stop"
+msgstr "Stop"
+
+#: theme/functions/shortcodes.php:542
+#: theme/functions/shortcodes.php:616
+#: theme/functions/shortcodes.php:871
+#: theme/functions/shortcodes.php:933
+msgid "Mute"
+msgstr "Niemy"
+
+#: theme/functions/shortcodes.php:543
+#: theme/functions/shortcodes.php:617
+#: theme/functions/shortcodes.php:872
+#: theme/functions/shortcodes.php:934
+msgid "Unmute"
+msgstr "Włącz"
+
+#: theme/functions/shortcodes.php:544
+#: theme/functions/shortcodes.php:618
+msgid "Full Screen"
+msgstr "Pełny ekran"
+
+#: theme/functions/shortcodes.php:545
+#: theme/functions/shortcodes.php:619
+msgid "Restore Screen"
+msgstr "Przywracanie ekranu"
+
+#: theme/functions/shortcodes.php:555
+#: theme/functions/shortcodes.php:629
+#: theme/functions/shortcodes.php:882
+#: theme/functions/shortcodes.php:944
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Aby grać w mediach trzeba będzie albo uaktualnienie używanej przeglądarki do najnowszej wersji lub aktualizacji"
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "Flash plugin"
+msgstr "Wtyczka Flash"
+
+#: theme/functions/shortcodes.php:609
+#: theme/functions/shortcodes.php:926
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: theme/functions/shortcodes.php:610
+#: theme/functions/shortcodes.php:927
+msgid "Next"
+msgstr "Następny"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "0"
+msgstr "0"
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "Off"
+msgstr "poza"
+
+#: theme/functions/template-functions.php:332
+#: theme/functions/template-functions.php:374
+msgid "Posted by"
+msgstr "Wysłany przez"
+
+#: theme/functions/template-functions.php:341
+#: theme/functions/template-functions.php:383
+msgid "in"
+msgstr "w"
+
+#: theme/functions/template-functions.php:402
+msgid "Date"
+msgstr "data"
+
+#: theme/functions/template-functions.php:413
+msgid "Categories"
+msgstr "Kategorie"
+
+#: theme/functions/template-functions.php:475
+#: theme/functions/template-functions.php:484
+msgid "Taged with"
+msgstr "Taged z"
+
+#: theme/functions/template-functions.php:496
+msgid "Tags"
+msgstr "Tagi"
+
+#: theme/functions/template-functions.php:526
+msgid "Read More &rarr;"
+msgstr "Czytaj więcej &rarr;"
+
+#: theme/functions/template-functions.php:598
+msgid "More posts"
+msgstr "Więcej postów"
+
+#: theme/functions/template-functions.php:598
+msgid "More projects"
+msgstr "Więcej projektów"
+
+#: theme/functions/template-functions.php:602
+msgid "Related"
+msgstr "Związane"
+
+#: theme/functions/template-functions.php:612
+msgid "Popular"
+msgstr "Popularny"
+
+#: theme/functions/template-functions.php:622
+msgid "Latest"
+msgstr "Najnowszy"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Posts Found"
+msgstr "Brak pokrewnych postów Znalezione"
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Projects Found"
+msgstr "Brak Podobne projekty Znaleziono"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Posts Found"
+msgstr "Brak Popularne Wiadomości Znalezione"
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Projects Found"
+msgstr "Brak Popularne Projekty Found"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Posts Found"
+msgstr "Brak Ostatnie Posty"
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Projects Found"
+msgstr "Brak Najnowsze projekty Znaleziono"
+
+#: theme/functions/template-functions.php:831
+msgid "Unknown type of the video. Check your video link."
+msgstr "Nieznany typ pliku wideo. Sprawdź swoje łącze wideo."
+
+#: theme/functions/template-functions.php:1111
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: theme/functions/template-functions.php:1114
+msgid "Do you really want to reset the form?"
+msgstr "Czy na pewno chcesz, aby przywrócić formę?"
+
+#: theme/functions/template-functions.php:1114
+msgid "Reset Form"
+msgstr "Wyczyść formularz"
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+#: theme/postTypes/blog/post/fullwidth/link.php:19
+#: theme/postTypes/blog/post/sidebar/link.php:19
+msgid "Enter link text"
+msgstr "Wpisz tekst linku"
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:31
+#: theme/postTypes/blog/page/sidebar/quote.php:31
+#: theme/postTypes/blog/post/fullwidth/quote.php:22
+#: theme/postTypes/blog/post/sidebar/quote.php:22
+msgid "Enter post excerpt"
+msgstr "Wpisz fragment postu"
+
+#~ msgid "We're sorry, but the page you were looking for doesn't exist."
+#~ msgstr "Bardzo nam przykro, ale strona której szukasz nie istnieje."
+
+#~ msgid "Sitemap"
+#~ msgstr "Mapa strony"
+
+#~ msgid "Name"
+#~ msgstr "Nazwa"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Website"
+#~ msgstr "Strona WWW"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Wyślij komentarz"
+
+#~ msgid "Connect with us"
+#~ msgstr "Kontakt z nami"
+
+#~ msgid "Portfolio Archives"
+#~ msgstr "Portfolio Archiwum"
+
+#~ msgid "Website Archives"
+#~ msgstr "Strona Archiwum"
+
+#~ msgid "All Categories"
+#~ msgstr "Wszystkie kategorie"
+
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "Możesz przeskoczyć na koniec i zostawić odpowiedź. Pingowanie jest "
+#~ "obecnie niedozwolone."
+
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "Zarówno komentarze i pingi są obecnie zamknięte."
+
+#~ msgid "This page contains your query"
+#~ msgstr "Ta strona zawiera zapytanie"
+
+#~ msgid "enter keywords"
+#~ msgstr "słowa kluczowe"
+
+#~ msgid "More sharing options"
+#~ msgstr "Więcej opcji udostępniania"
+
+#~ msgid "Archives"
+#~ msgstr "Archiwum"
+
+#~ msgid "Jan"
+#~ msgstr "Sty"
+
+#~ msgid "Feb"
+#~ msgstr "Lut"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Kwi"
+
+#~ msgid "May"
+#~ msgstr "Maj"
+
+#~ msgid "Jun"
+#~ msgstr "Cze"
+
+#~ msgid "Jul"
+#~ msgstr "Lip"
+
+#~ msgid "Aug"
+#~ msgstr "Sie"
+
+#~ msgid "Sep"
+#~ msgstr "Wrz"
+
+#~ msgid "Oct"
+#~ msgstr "Paź"
+
+#~ msgid "Nov"
+#~ msgstr "Lis"
+
+#~ msgid "Dec"
+#~ msgstr "Gru"
+
+#~ msgid "More"
+#~ msgstr "Więcej"
+
+#~ msgid "Prev"
+#~ msgstr "Poprzedni"
+
+#~ msgid "new tweet"
+#~ msgstr "nowy ćwierkać"
+
+#~ msgid "new tweets"
+#~ msgstr "nowe tweety"
+
+#~ msgid "on Twitter"
+#~ msgstr "na Twitterze"
+
+#~ msgid "second ago"
+#~ msgstr "sekund temu"
+
+#~ msgid "seconds ago"
+#~ msgstr "sekund temu"
+
+#~ msgid "minute ago"
+#~ msgstr "minut temu"
+
+#~ msgid "minutes ago"
+#~ msgstr "minut temu"
+
+#~ msgid "hour ago"
+#~ msgstr "godzin temu"
+
+#~ msgid "hours ago"
+#~ msgstr "godzin temu"
+
+#~ msgid "day ago"
+#~ msgstr "dni temu"
+
+#~ msgid "days ago"
+#~ msgstr "dni temu"
+
+#~ msgid "via"
+#~ msgstr "przez"
+
+#~ msgid "here"
+#~ msgstr "tutaj"
+
+#~ msgid "from"
+#~ msgstr "z"
+
+#~ msgid "in reply to"
+#~ msgstr "w odpowiedzi na"
+
+#~ msgid "and"
+#~ msgstr "i"
+
+#~ msgid "other"
+#~ msgstr "inny"
+
+#~ msgid "others"
+#~ msgstr "inni"
+
+#~ msgid "Retweeted by"
+#~ msgstr "Retweeted przez"
+
+#~ msgid "Retweet"
+#~ msgstr "Retweet"
+
+#~ msgid "Favorite"
+#~ msgstr "Ulubiony"
+
+#~ msgid "Sign out"
+#~ msgstr "Zarejestruj się"
+
+#~ msgid "Loading"
+#~ msgstr "Ładowanie"
+
+#~ msgid "ERROR"
+#~ msgstr "BŁĄD"
+
+#~ msgid "No more data"
+#~ msgstr "Brak więcej danych"
+
+#~ msgid "What's happening?"
+#~ msgstr "Co się dzieje?"
+
+#~ msgid "* This field is required"
+#~ msgstr "* To pole jest wymagane"
+
+#~ msgid "* Please select an option"
+#~ msgstr "* Wybierz jedną z opcji"
+
+#~ msgid "* This checkbox is required"
+#~ msgstr "* To pole jest wymagane"
+
+#~ msgid "* Minimum"
+#~ msgstr "* Minimum"
+
+#~ msgid "characters allowed"
+#~ msgstr "znaków"
+
+#~ msgid "* Maximum"
+#~ msgstr "* Maksymalna"
+
+#~ msgid "* Invalid email address"
+#~ msgstr "* Nieprawidłowy adres e-mail"
+
+#~ msgid "* Invalid number"
+#~ msgstr "* Niepoprawny numer"
+
+#~ msgid "* Invalid URL"
+#~ msgstr "* Nieprawidłowy adres URL"
+
+#~ msgid "* Numbers and spaces only"
+#~ msgstr "* Tylko numery i przestrzeni"
+
+#~ msgid "* Letters and spaces only"
+#~ msgstr "* Tylko listy i przestrzeni"
+
+#~ msgid "All Rights Reserved"
+#~ msgstr "Wszelkie Prawa Zastrzeżone"
+
+#~ msgid "All Flickr Images"
+#~ msgstr "Wszystkie obrazy Flickr"
+
+#~ msgid "on"
+#~ msgstr "na"
+
+#~ msgid "ago"
+#~ msgstr "temu"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Submit"
+#~ msgstr "Prześlij"
+
+#~ msgid "View all posts in"
+#~ msgstr "Zobacz wszystkie posty w"
+
+#~ msgid "Comments Off"
+#~ msgstr "Komentarze są wyłączone"
+
+#~ msgid "View Project"
+#~ msgstr "Zobacz projekt"

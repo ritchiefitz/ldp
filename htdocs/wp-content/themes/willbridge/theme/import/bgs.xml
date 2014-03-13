@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bgs>
+  <bg type="bg_i">
+    <bg_url>bg_i_1.jpg</bg_url>
+    <bg_thumb_url>bg_i_1_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat-x</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_2.jpg</bg_url>
+    <bg_thumb_url>bg_i_2_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat-x</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_3.jpg</bg_url>
+    <bg_thumb_url>bg_i_3_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat-x</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_4.jpg</bg_url>
+    <bg_thumb_url>bg_i_4_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat-x</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_5.jpg</bg_url>
+    <bg_thumb_url>bg_i_5_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat-x</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+</bgs>

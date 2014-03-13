@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Willbridge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-12 11:59+0200\n"
+"PO-Revision-Date: 2012-10-12 12:00+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: cmsmasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:32
+msgid "No posts found"
+msgstr ""
+
+#: blog.php:63
+#: page.php:58
+#: portfolio.php:80
+#: sitemap.php:64
+#: sitemap.php:76
+msgid "Pages"
+msgstr ""
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:47
+msgid "Leave your comment to"
+msgstr ""
+
+#: comments.php:49
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:52
+msgid "You must be"
+msgstr ""
+
+#: comments.php:52
+msgid "logged in"
+msgstr ""
+
+#: comments.php:52
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:57
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:57
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:57
+msgid "Log out"
+msgstr ""
+
+#: header.php:478
+msgid "Search Results for"
+msgstr ""
+
+#: header.php:481
+msgid "Daily Archives"
+msgstr ""
+
+#: header.php:483
+msgid "Monthly Archives"
+msgstr ""
+
+#: header.php:485
+msgid "Yearly Archives"
+msgstr ""
+
+#: header.php:487
+msgid "Category Archives"
+msgstr ""
+
+#: header.php:489
+msgid "Tag Archives"
+msgstr ""
+
+#: header.php:493
+msgid "Author Archives"
+msgstr ""
+
+#: image.php:41
+msgid "This entry was posted on"
+msgstr ""
+
+#: image.php:41
+msgid "at"
+msgstr ""
+
+#: image.php:41
+msgid "and is filed under"
+msgstr ""
+
+#: image.php:49
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: image.php:51
+msgid "RSS 2.0"
+msgstr ""
+
+#: image.php:53
+msgid "feed"
+msgstr ""
+
+#: image.php:56
+msgid "You can"
+msgstr ""
+
+#: image.php:56
+msgid "leave a response"
+msgstr ""
+
+#: image.php:56
+msgid "or"
+msgstr ""
+
+#: image.php:59
+#: image.php:65
+msgid "trackback"
+msgstr ""
+
+#: image.php:59
+#: image.php:65
+msgid "from your own site"
+msgstr ""
+
+#: image.php:61
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: image.php:72
+msgid "Edit this media"
+msgstr ""
+
+#: search.php:33
+msgid "Nothing found. Try another search?"
+msgstr ""
+
+#: single.php:75
+msgid "Like this post?"
+msgstr ""
+
+#: single.php:171
+msgid "About the author"
+msgstr ""
+
+#: theme/classes/breadcrumb.php:27
+msgid "Home"
+msgstr ""
+
+#: theme/classes/breadcrumb.php:100
+msgid "Author"
+msgstr ""
+
+#: theme/classes/breadcrumb.php:104
+msgid "Tag"
+msgstr ""
+
+#: theme/classes/breadcrumb.php:108
+msgid "Search"
+msgstr ""
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "Page"
+msgstr ""
+
+#: theme/classes/wp-pagenavi.php:242
+msgid "of"
+msgstr ""
+
+#: theme/functions/comments.php:20
+msgid "Edit"
+msgstr ""
+
+#: theme/functions/comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: theme/functions/comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: theme/functions/shortcodes.php:352
+msgid "Top"
+msgstr ""
+
+#: theme/functions/shortcodes.php:521
+#: theme/functions/shortcodes.php:534
+#: theme/functions/shortcodes.php:593
+#: theme/functions/shortcodes.php:606
+#: theme/functions/shortcodes.php:863
+#: theme/functions/shortcodes.php:923
+msgid "Play"
+msgstr ""
+
+#: theme/functions/shortcodes.php:535
+#: theme/functions/shortcodes.php:607
+#: theme/functions/shortcodes.php:864
+#: theme/functions/shortcodes.php:924
+msgid "Pause"
+msgstr ""
+
+#: theme/functions/shortcodes.php:536
+#: theme/functions/shortcodes.php:608
+#: theme/functions/shortcodes.php:865
+#: theme/functions/shortcodes.php:925
+msgid "Stop"
+msgstr ""
+
+#: theme/functions/shortcodes.php:542
+#: theme/functions/shortcodes.php:616
+#: theme/functions/shortcodes.php:871
+#: theme/functions/shortcodes.php:933
+msgid "Mute"
+msgstr ""
+
+#: theme/functions/shortcodes.php:543
+#: theme/functions/shortcodes.php:617
+#: theme/functions/shortcodes.php:872
+#: theme/functions/shortcodes.php:934
+msgid "Unmute"
+msgstr ""
+
+#: theme/functions/shortcodes.php:544
+#: theme/functions/shortcodes.php:618
+msgid "Full Screen"
+msgstr ""
+
+#: theme/functions/shortcodes.php:545
+#: theme/functions/shortcodes.php:619
+msgid "Restore Screen"
+msgstr ""
+
+#: theme/functions/shortcodes.php:555
+#: theme/functions/shortcodes.php:629
+#: theme/functions/shortcodes.php:882
+#: theme/functions/shortcodes.php:944
+msgid "Update Required"
+msgstr ""
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr ""
+
+#: theme/functions/shortcodes.php:556
+#: theme/functions/shortcodes.php:630
+#: theme/functions/shortcodes.php:883
+#: theme/functions/shortcodes.php:945
+msgid "Flash plugin"
+msgstr ""
+
+#: theme/functions/shortcodes.php:609
+#: theme/functions/shortcodes.php:926
+msgid "Previous"
+msgstr ""
+
+#: theme/functions/shortcodes.php:610
+#: theme/functions/shortcodes.php:927
+msgid "Next"
+msgstr ""
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "0"
+msgstr ""
+
+#: theme/functions/template-functions.php:310
+#: theme/functions/template-functions.php:511
+msgid "Off"
+msgstr ""
+
+#: theme/functions/template-functions.php:332
+#: theme/functions/template-functions.php:374
+msgid "Posted by"
+msgstr ""
+
+#: theme/functions/template-functions.php:341
+#: theme/functions/template-functions.php:383
+msgid "in"
+msgstr ""
+
+#: theme/functions/template-functions.php:402
+msgid "Date"
+msgstr ""
+
+#: theme/functions/template-functions.php:413
+msgid "Categories"
+msgstr ""
+
+#: theme/functions/template-functions.php:475
+#: theme/functions/template-functions.php:484
+msgid "Taged with"
+msgstr ""
+
+#: theme/functions/template-functions.php:496
+msgid "Tags"
+msgstr ""
+
+#: theme/functions/template-functions.php:526
+msgid "Read More &rarr;"
+msgstr ""
+
+#: theme/functions/template-functions.php:598
+msgid "More posts"
+msgstr ""
+
+#: theme/functions/template-functions.php:598
+msgid "More projects"
+msgstr ""
+
+#: theme/functions/template-functions.php:602
+msgid "Related"
+msgstr ""
+
+#: theme/functions/template-functions.php:612
+msgid "Popular"
+msgstr ""
+
+#: theme/functions/template-functions.php:622
+msgid "Latest"
+msgstr ""
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Posts Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:682
+msgid "No Related Projects Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Posts Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:735
+msgid "No Popular Projects Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Posts Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:785
+msgid "No Latest Projects Found"
+msgstr ""
+
+#: theme/functions/template-functions.php:831
+msgid "Unknown type of the video. Check your video link."
+msgstr ""
+
+#: theme/functions/template-functions.php:1111
+msgid "Send Message"
+msgstr ""
+
+#: theme/functions/template-functions.php:1114
+msgid "Do you really want to reset the form?"
+msgstr ""
+
+#: theme/functions/template-functions.php:1114
+msgid "Reset Form"
+msgstr ""
+
+#: theme/postTypes/blog/page/fullwidth/link.php:17
+#: theme/postTypes/blog/page/sidebar/link.php:17
+#: theme/postTypes/blog/post/fullwidth/link.php:19
+#: theme/postTypes/blog/post/sidebar/link.php:19
+msgid "Enter link text"
+msgstr ""
+
+#: theme/postTypes/blog/page/fullwidth/quote.php:31
+#: theme/postTypes/blog/page/sidebar/quote.php:31
+#: theme/postTypes/blog/post/fullwidth/quote.php:22
+#: theme/postTypes/blog/post/sidebar/quote.php:22
+msgid "Enter post excerpt"
+msgstr ""
+
