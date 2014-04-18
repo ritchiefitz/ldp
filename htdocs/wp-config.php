@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'icomm_ldp');
+define('DB_NAME', 'ldp_icomm');
 
 /** MySQL database username */
-define('DB_USER', 'ldp_admin');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '45thousanD$');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '1zt&t--:_Uv,@W!^~e9L&B?@{+AkO.Y{:nBS#Qt2R;*8`D7_|1-*kU8n]q|cz;S?');
-define('SECURE_AUTH_KEY',  'j)4taNA*H5.~-j/&Y,.d!+c6.L^QA!Qxhgk>-}iOL4,-MHisS4cZ-3ptzk0|G^2<');
-define('LOGGED_IN_KEY',    'krl6B.6?`WuRi8:$d@{$hNj1m^kIe%zS#wfK)-(+$HA(Hjr^8O{.!R2k *iqR`R`');
-define('NONCE_KEY',        '2@ce^dc;=QP4hh7y-KSo:Q7nOQ6AhIdYGwwd[GOG(pBVj`9W=(iMHOyLOE~#-|l2');
-define('AUTH_SALT',        'eW|BE@8rYNT~lHY7]+~XeoeoR4M<r0YB>E4jMj;K)$?7Q#t^7u)S9[ehLlICUK%0');
-define('SECURE_AUTH_SALT', 'p)+x+b+*]h}@Bo(+mOyHNF_~]<eoQ%OXoB_;)+ c~9e%QJ#`|ish#*+ByXJZCLR|');
-define('LOGGED_IN_SALT',   'Djl m,v z:6B[+c/k-n@ziXrEYmzS1WmXSWUUsc0Q7b^QaH& z0!w>e2uh|p5*&=');
-define('NONCE_SALT',       'ks-0R(WZeYk-@|?3,H8<ZuL;>J.T,+~UEVb|c<0r&Hr;Rl#2Rxp4ufOO3`fPI$z*');
+define('AUTH_KEY',         'D9RN#N(-=Lh<4E[b/SZCU- m+ -GeT~Y{t64siU9R9B%gqtX&:nFC-1U4Xw=f2I_');
+define('SECURE_AUTH_KEY',  'duvk67PE|J-lW(.4KVHv}_I|pg+ :ckS-3ujHqecq9G;p?q;BM Am(/N4P3jpDQ_');
+define('LOGGED_IN_KEY',    'fYD)%W`4SEP!){vWhW8o3hDw}4!7jr,So:+XN8Rz/z^P Lx[0%?h0*=2!{DE-X+3');
+define('NONCE_KEY',        'P3Hd9>5Pu.i;it?^O_x$cMS*[:mJ1E}IyHDXBGS6PTLK2JJ|dbua^bXg;>f{@d}w');
+define('AUTH_SALT',        'Ti{>%O6bD+SMLLO}|_@YuxqtK|0giafB5_#I)$?UEk/$Xd)h}C8|aGu8`p2G{K<s');
+define('SECURE_AUTH_SALT', '`Au(++8bZAm}`Dd}M$=K{%pxj@~-/F9|}jb]HD:Fe$<2Ww<%xj|kMravXr:Lez91');
+define('LOGGED_IN_SALT',   'l ~G;J}gL=lATQd4ot^(;{<-+0ggtxHX&Q_=&&-.-o:ZUCH5]MP]vqo9&xH/1M.-');
+define('NONCE_SALT',       '?mh~ey0+O(X=,N;+[p) =]@$Jn&FP^QSdKwe}oEXQ]>}bF%3;Mf_1C-Y5>hZV3&H');
 
 /**#@-*/
 
