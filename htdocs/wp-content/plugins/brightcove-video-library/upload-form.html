@@ -1,0 +1,140 @@
+<!-- Third party script for BrowserPlus runtime (Google Gears included in Gears runtime now) -->
+<script type="text/javascript" src="http://bp.yahooapis.com/2.4.21/browserplus-min.js"></script>
+
+<!-- Load plupload and all it's runtimes and finally the jQuery queue widget -->
+
+<script type="text/javascript">
+	var uploader;
+	jQuery(function() {
+		var position = 0;
+		var timer;
+	    uploader = new plupload.Uploader({
+		runtimes : 'html5,flash',
+		browse_button : 'pickfiles',
+		container : 'container',
+		max_file_size : '2gb',
+		url : '/wp-content/plugins/brightcove-video-library/upload.php',
+		filters : [
+			{title : "Video files", extensions : "mp4,mov,wmv"},
+                        {title : "Image files", extensions : "jpg"}
+		],
+                multipart : true,
+                multipart_params: {'title' : 'NO TITLE', //these are the default values for title and desc if the user doesn't suppy anything. 
+                                    'desc' : 'No description available', // if they are empty brightcove won't let it through.
+                                    'tags' : '',
+									'action' : 'upload'}
+	});
+        
+	uploader.bind('Init', function(up, params) {
+		//jQuery('#filelist').html("<div>Current runtime: " + params.runtime + "</div>");
+	});
+
+	jQuery('#uploadfiles').click(function(e) {
+		uploader.start();
+		e.preventDefault();
+	});
+
+	uploader.init();
+        
+	uploader.bind('FilesAdded', function(up, files) {
+        jQuery.each(files, function(i, file) {
+		jQuery('#pickfiles').hide();
+                jQuery('#filename').text(file.name).show();
+                jQuery('#switchfiles').show();
+	    });
+
+	    up.refresh(); // Reposition Flash/Silverlight
+	});
+        
+    jQuery('#switchfiles').click(function(){
+       jQuery.each(uploader.files, function(i, file){
+           uploader.removeFile(file);
+       });
+       jQuery('#switchfiles').hide();
+       jQuery('#filename').text('').hide();
+       jQuery('#pickfiles').show();
+    });
+        
+        
+    var finished = false;
+	uploader.bind('UploadProgress', function(up, file) {
+            
+		jQuery('#percentage').html(file.percent + "%");
+        jQuery('.load-bar').css('width', file.percent + "%");
+			
+			
+        if(file.percent == 100 && !finished){
+			clearInterval(timer);
+            jQuery('#container').append("<p>Your video was uploaded successfully! It is now being sent to our video servers. When it's finished you will recieve an email containing the video ID.</p><p>You don't need to stay on this page for the upload to continue");
+            finished = true; // if you don't do this it will print the message several times
+        }
+	});
+
+	uploader.bind('Error', function(up, err) {
+		if(jQuery('#errors').length > 0)
+		jQuery('#errors').append("<div>Error: " + err.code +
+			", Message: " + err.message +
+			(err.file ? ", File: " + err.file.name : "") +
+			"</div>"
+		);
+
+		up.refresh(); // Reposition Flash/Silverlight
+	});
+
+        uploader.bind('BeforeUpload', function(up, file){
+            if(jQuery("#title").val() != '')
+                uploader.settings.multipart_params.title = jQuery("#title").val();
+            if(jQuery("#desc").val() != '')          
+                uploader.settings.multipart_params.desc = jQuery("#desc").val();
+            if(jQuery("#tag-input").val != '')
+                uploader.settings.multipart_params.tags = jQuery("#tag-input").val();
+            
+            jQuery('.meter').show();
+            jQuery('#upload-form').hide();
+            
+			timer = setInterval(function(){
+				jQuery('.load-bar').css('background-position',position + '%');
+				if(position == 100){
+					position = 0;
+				}else position++;
+			},100);
+        });
+
+	uploader.bind('FileUploaded', function(up, file, info) {
+		jQuery('#' + file.id + " b").html("Done!");
+		jQuery('#container').append(info.response);
+                
+		jQuery('#errors').remove();
+	});
+});
+</script>
+<div id="container">
+    <div class="meter" hidden>
+        <span id="percentage"></span>
+            <div class="load-bar"></div>
+        </div>
+        
+	
+        <form id="upload-form" class="form" enctype="multipart/form-data">
+            <ul id="form-list">
+                <li><a id="pickfiles" class="form-button upload-form-button" href="#">Select Video</a>
+                    <p><span id='filename' hidden="hidden"></span>
+                    <a id="switchfiles" href="#" hidden="hidden" class="form-button">Remove File</a></p>
+                </li>
+                <li>
+                    <label for="title">*Title: </label> <input name="title" id="title" size="40">
+                </li><li>
+                    <label for="desc">*Description: </label> <textarea id="desc" name="desc" cols="40" rows="5" maxlength="250" ></textarea>
+					<p class="instructions"><span>250</span> characters remaining</p>
+                </li><li>
+                    <label for="tag-input">Tags:</label>
+                    <input type="text" id="tag-input" name="tag-input" size="50">
+                    <p class="instructions">Please separate each tag with a comma and a single space</p>
+                </li>
+                <li><a id="uploadfiles" class="form-button upload-form-button" href="#">Upload Video</a></li>
+            </ul>
+        </form>
+		<!--<div id='errors'></div> This was giving only http 200 errors, but the video was still uploading correctly. Meaningful errors are coming from PHP--> 
+</div>
+
+			

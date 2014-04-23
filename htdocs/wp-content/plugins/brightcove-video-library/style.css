@@ -1,0 +1,306 @@
+/* 
+    Document   : style.css
+    Created on : May 22, 2012, 5:36:59 PM
+    Author     : Blunck
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+b{
+    color: #9CDCFF; 
+}
+#gallery-head{
+    display: block;
+}
+#search-box{
+    display: inline;
+    margin-left: 13px;
+}
+#search-field {
+    font-size: 150%;
+    padding: 7px;
+}
+#all-button{
+    margin-left:6px;
+}
+#get-upload-button{
+    float:right;
+    margin: 4px 16px 0 0;
+}
+#video_library{
+}
+.video-wrap{
+    display: inline-block;
+    padding: 0;
+    margin: 15px;
+    box-shadow: 0 0 7px #333;
+    width: 350px;
+    height: 196px;
+    overflow: hidden
+}
+.text-wrap{
+    overflow: hidden;
+    position: relative;
+    height: 100px;
+    top: -100px;
+    bottom: -100px;
+    background:url(tilebk.png) repeat-x transparent;
+	padding-left: 10px;
+	padding-top: 30px;
+}
+.video-link{
+	color: #ffffff;
+    cursor: pointer;
+}
+.video-id{
+    color: #ffffff;
+}
+.video-wrap p{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.video-wrap .video-title{
+    font-size: 1.5em;
+    max-height: 1.5em;
+    line-height: 1.5em;
+    overflow: hidden;
+}
+.video-thumb{
+    width: 350px;
+    display: block;
+    height: 196px;
+}
+
+#pagination{
+    background-color: #3E3E3E;
+    font-size: 30px;
+    border-radius: 9px;
+    display: inline-block;
+    line-height: 30px
+}
+.page_number{
+    color: #BFBFBF;
+    display: inline-block;
+    margin-right: 1px;
+    margin-left: 1px;
+    float: left;
+    padding: 4px;
+}
+a.page_number:hover{
+    color: #9CDCFF;
+    cursor: pointer;
+}
+.current_page{
+    color: #9CDCFF;
+}
+#black-box{
+    z-index: 9999;
+    top: 50px;
+/*    left: 400px;*/
+    position: fixed;
+    display: none;
+    color: #FFFFFF;
+    padding: 5px;
+    width: 615px;
+}
+#black-box p,
+#black-box ul{
+/*    margin-top: 3px;
+    margin-bottom: 15px; */
+}
+#black-box-top{
+    /*border-bottom: 1px dashed #DDDDDD;*/
+    margin-bottom: 3px;
+}
+#edit-box{
+    background-color: #000000;
+    border-radius: 0 0 5px 5px;
+    display: inline-block;
+    padding: 12px;
+}
+#video-player{
+    /*border-bottom: 1px dashed #DDDDDD;*/
+    text-align: center;
+	box-shadow: 0 0 100px #000;
+}
+#current-video-head{
+    display: inline;
+    border-radius: 5px 5px 0 0;
+    background-color: #000;
+    color: #D54E21;
+    padding: 7px;
+}
+#close-box{
+    float: right;
+    display: inline;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#current-video-tags{
+    display: inline;
+}
+#tag-title{
+    display: inline;
+}
+.single-tag{
+    display: inline;
+}
+.single-tag:after{
+    content: ", ";
+}
+.last-tag:after{
+    content: "";
+}
+#mask{
+    background-color: #999;
+    display: none;
+    opacity: 0.7;
+    top: 0;
+    z-index: 9998;
+    overflow: hidden;
+}
+#loading{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 350px;
+}
+.form{
+    min-width: 500px;
+	margin-bottom: 5px;
+}
+.form label{
+    vertical-align: top;
+}
+.form label
+{
+width: 100px;
+float: left;
+text-align: right;
+display: block;
+margin-right: 5px;
+color: #EEEEEE !important;
+}
+.form input,
+.form textarea{
+    background-color:#494949;
+    color:#999999;
+    border: 1px solid #494949;
+    border-radius: 3px;
+}
+form input:focus,
+form textarea:focus{
+    border: 1px #fff solid;
+}
+.form-button{
+    color:#F1F1F1;
+    background-color:#888888;
+    border: none;
+    padding:4px;
+    border-radius: 2px;
+    text-decoration: none;
+    font-size: 150%;
+}
+.form-button:hover{
+    cursor: pointer;
+    background-color: #21759B;
+    color:#F1F1F1;
+    text-decoration: none;
+}
+.upload-form-button,
+#filename{
+    margin-left: 105px;
+}
+#filename{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: none;
+    margin-right: 20px;
+}
+#switchfiles{
+    display: none;
+}
+.instructions{
+    font-style: italic;
+    margin-left: 105px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 80%;
+}
+.instructions span{
+	color: #D54E21;
+}
+.form-feedback{
+	list-style-type: none;
+    margin: 4px;
+	margin-left:103px;
+}
+#delete-form{
+	margin-left: 103px;	
+}
+#meta{
+    visibility: hidden;
+    height: 0px;
+}
+.meter{
+    width: 575px;
+    height: 40px;
+    background-color: #555555;
+    padding: 3px;
+    border-radius: 20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#percentage{
+    position: absolute;
+    left: 285px;
+    top: 12px;
+    font-size: 140%;
+    font-weight: bold;
+}
+.load-bar{
+    background-image: url('stripe.png');
+    background-position: 0%;
+    border-radius: 20px;
+    height: 40px;
+    width: 0%;
+}
+
+.arrow-right {
+	background: url("play.png") no-repeat scroll -2px -8px transparent;
+    height: 45px;
+    margin-left: 135px;
+    margin-top: 65px;
+    position: absolute;
+    width: 75px;;
+}
+.arrow-right:hover{
+	cursor: pointer;
+	box-shadow: 0 0 10px #fff;
+	
+}
+
+#myExperience{
+	box-shadow:0 0 100px #000000;
+}
+#exchangable{
+	min-height: 100px;
+	background-color:#000000;
+        padding: 5px;
+}
+#current-video-title{
+	font-size:24px;
+        margin-top: 0;
+}
+#date-holder, #tag-wrap, #short-desc-wrap{
+	font-size: 9px;
+    font-weight: lighter;
+    line-height: 12px;
+    margin: 0 !important;
+    text-transform: uppercase;
+}
